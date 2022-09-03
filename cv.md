@@ -27,6 +27,15 @@ Hello. I'm 37 years old. Learning programming, currently in [RS School](https://
 * Git (Basics)
 * SQL (Pre-Intermediate)
 
+
+## **Code examples**
+```javascript
+const compose =
+  (...funcs) =>
+  (value) =>
+    funcs.reduceRight((value, func) => func(value), value);
+```
+
 ## **Courses**
 * RS School Course "JavaScript/Front-end 2022Q3" - **In progress**
 * Offline [EPAM](https://www.epam.com/) Java course

@@ -8,7 +8,7 @@
 
 **E-mail:** [redvox.in@gmail.com](mailto:redvox.in@gmail.com)
 
-[GitHub](https://github.com/redvoxdev)
+**GitHub:** [redvoxdev](https://github.com/redvoxdev)
 
 ## **About Myself:**
 
@@ -39,7 +39,7 @@ const compose =
 ## **Courses**
 * RS School Course "JavaScript/Front-end 2022Q3" - **In progress**
 * Offline [EPAM](https://www.epam.com/) Java course
-* A lot of [stepik.org](https://stepik.org) courses
+* A lot of online courses ([stepik](https://stepik.org), etc)
 
 ## **Languages**
 * Russian: Native

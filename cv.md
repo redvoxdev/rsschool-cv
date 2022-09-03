@@ -29,7 +29,7 @@ Hello. I'm 37 years old. Learning programming, currently in [RS School](https://
 
 ## **Courses**
 * RS School Course "JavaScript/Front-end 2022Q3" - **In progress**
-* Offline EPAM Java course
+* Offline [EPAM](https://www.epam.com/) Java course
 * A lot of [stepik.org](https://stepik.org) courses
 
 ## **Languages**

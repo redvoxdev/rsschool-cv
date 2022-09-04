@@ -12,7 +12,7 @@
 
 ## **About Myself:**
 
-Hello. I'm 37 years old. Learning programming, currently in [RS School](https://rs.school/). Have experience in sales, system administration, systems maintenance working on SIMATIC controllers.
+Hello. I'm 37 years old. Learning programming, currently in [RS School](https://rs.school/). I have experience in sales, system administration, systems maintenance working on SIMATIC controllers.
 
 ## **Skills**
 

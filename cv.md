@@ -39,7 +39,6 @@ const compose =
 ## **Courses**
 * RS School Course "JavaScript/Front-end 2022Q3" - **In progress**
 * Offline [EPAM](https://www.epam.com/) Java course
-* A lot of online courses ([stepik](https://stepik.org), etc)
 
 ## **Languages**
 * Russian: Native

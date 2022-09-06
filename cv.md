@@ -4,10 +4,8 @@
 ---
 
 ## Contact information:
-**Location:** Kazakhstan, Karaganda
-
-**E-mail:** [redvox.in@gmail.com](mailto:redvox.in@gmail.com)
-
+**Location:** Kazakhstan, Karaganda  
+**E-mail:** [redvox.in@gmail.com](mailto:redvox.in@gmail.com)  
 **GitHub:** [redvoxdev](https://github.com/redvoxdev)
 
 ## **About Myself:**

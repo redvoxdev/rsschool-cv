@@ -1,0 +1,43 @@
+# Damir K
+### Junior Developer
+
+---
+
+## Contact information:
+**Location:** Kazakhstan, Karaganda  
+**E-mail:** [redvox.in@gmail.com](mailto:redvox.in@gmail.com)  
+**GitHub:** [redvoxdev](https://github.com/redvoxdev)
+
+## **About Myself:**
+
+Hello. I'm 37 years old. Learning programming, currently in [RS School](https://rs.school/). I have experience in sales, system administration, systems maintenance working on SIMATIC controllers.
+
+## **Skills**
+
+### **Programming languages:**
+* JavaScript (Intermediate)
+* HTML5 (Basic)
+* CSS3 (Basic)
+* Java (Pre-Intermediate)
+* Python (Pre-Intermediate)
+
+### **Frameworks, Databases, Tools:**
+* Git (Basic)
+* SQL (MySQL) (Pre-Intermediate)
+
+
+## **Code examples**
+```javascript
+const compose =
+  (...funcs) =>
+  (value) =>
+    funcs.reduceRight((value, func) => func(value), value);
+```
+
+## **Courses**
+* RS School Course "JavaScript/Front-end 2022Q3" - **In progress**
+* Offline [EPAM](https://www.epam.com/) Java course
+
+## **Languages**
+* Russian: Native
+* English: A2/B1 - **In progress**

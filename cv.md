@@ -21,9 +21,9 @@ Hello. I'm 37 years old. Learning programming, currently in [RS School](https://
 * Java (Pre-Intermediate)
 * Python (Pre-Intermediate)
 
-### **Frameworks, Tools:**
+### **Frameworks, Databases, Tools:**
 * Git (Basic)
-* SQL (Pre-Intermediate)
+* SQL (MySQL) (Pre-Intermediate)
 
 
 ## **Code examples**
